@@ -1,6 +1,6 @@
 {
   "name": "@scnewma/pi-codex-rate-limits",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Pi extension that shows OpenAI Codex rate limit usage via /codex-rate-limits",
   "repository": {
     "type": "git",

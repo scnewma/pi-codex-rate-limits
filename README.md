@@ -7,7 +7,7 @@ See your rate limits from your Codex subscription in [pi](https://pi.dev/).
 ## Install
 
 ```
-pi install git:github.com/scnewma/pi-codex-rate-limits
+pi install npm:@scnewma/pi-codex-rate-limits
 ```
 
 ## Usage

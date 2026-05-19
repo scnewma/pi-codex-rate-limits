@@ -1,5 +1,5 @@
 {
-  "name": "codex-rate-limits",
+  "name": "@scnewma/pi-codex-rate-limits",
   "version": "0.1.2",
   "description": "Pi extension that shows OpenAI Codex rate limit usage via /codex-rate-limits",
   "license": "MIT",

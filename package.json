@@ -1,0 +1,10 @@
+{
+  "name": "codex-rate-limits",
+  "version": "1.0.0",
+  "description": "Pi extension that shows OpenAI Codex rate limit usage via /codex-rate-limits",
+  "license": "MIT",
+  "keywords": ["pi-package"],
+  "pi": {
+    "extensions": ["./src/index.ts"]
+  }
+}

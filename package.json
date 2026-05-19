@@ -4,7 +4,7 @@
   "description": "Pi extension that shows OpenAI Codex rate limit usage via /codex-rate-limits",
   "repository": {
     "type": "git",
-    "url": "https://github.com/scnewma/pi-codex-rate-limits"
+    "url": "git+https://github.com/scnewma/pi-codex-rate-limits.git"
   },
   "license": "MIT",
   "keywords": [
